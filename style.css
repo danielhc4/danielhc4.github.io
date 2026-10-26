@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+* {
+  font-family: "Inter", serif;
+}
+
+body {
+  background: #f2f0ef;
+}
+
+a.navbar-brand.dh-navbar-brand-text {
+  font-family: "Playfair Display", serif;
+}
+
+ul.dh-navbar-nav li.nav-item a.nav-link {
+  font-family: "Inter", serif;
+  color: #fff;
+}
+
+ul.dh-navbar-nav li.nav-item a.nav-link:hover {
+  color: #2563eb;
+}
+
+h5.dh-subtitle {
+  font-family: "Inter", serif;
+  color: #3a3835;
+}
+
+h1.hd-title {
+  font-size: 4rem;
+  font-family: "Playfair Display", serif;
+}
+
+/*# sourceMappingURL=style.css.map */
